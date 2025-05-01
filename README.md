@@ -1,1 +1,2 @@
-# gran_escala_parcial
+# Métodos de Gran Escala: Exámen Parcial. 
+## Primavera 2025 
