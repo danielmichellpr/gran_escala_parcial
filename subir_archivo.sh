@@ -1,0 +1,1 @@
+aws s3 sync data/concat s3://itam-analytics-grb/profeco/clean/
