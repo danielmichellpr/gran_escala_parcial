@@ -12,6 +12,11 @@ if __name__ == "__main__":
                 print(f"Procesamiento del archivo: {f}")
                 # Leemos el archivo
                 df = pd.read_csv(f, encoding= 'utf-8', encoding_errors='strict')
+                # pacic significa "basico" en la variable "catalogo"
+                df.loc[df['catalogo'] == 'pacic', 'catalogo'] = 'basicos'
+                # Existen unas cuantas observaciones con "medicamentos.1" en la columna "catalogo"
+                df.loc[df['catalogo'] == 'medicamentos.1', 'catalogo'] = 'medicamentos'
+
                 # Pasamos a minusculas las observaciones
                 for col in df.columns:
                     # Si es string

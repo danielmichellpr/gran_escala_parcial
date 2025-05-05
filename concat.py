@@ -23,5 +23,7 @@ if __name__ == "__main__":
                     concat_df = pd.concat(dfs, ignore_index=True)
                     concat_df['anio'] = folder[-4:]
                     concat_df.to_csv(os.path.join(PATH_OUT, f'{folder[-4:]}.csv'), index=False, encoding='utf-8')
+                    print(folder[-4:], ":", concat_df.shape)
+                    print(concat_df['catalogo'].value_counts())
     
 
