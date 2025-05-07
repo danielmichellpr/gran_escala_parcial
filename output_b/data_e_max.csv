@@ -1,0 +1,1072 @@
+anio,estado,producto,precio_maximo,ranking
+2018,aguascalientes,cytotec,3450.0,1
+2018,aguascalientes,lexapro,2689.0,2
+2018,aguascalientes,cialis,2620.0,3
+2018,aguascalientes,arava,2591.0,4
+2018,aguascalientes,keppra,2281.0,5
+2018,baja california,cytotec,3367.18994140625,1
+2018,baja california,cialis,2998.0,2
+2018,baja california,cymbalta,2914.0,3
+2018,baja california,lexapro,2850.0,4
+2018,baja california,arava,2707.389892578125,5
+2018,baja california sur,cytotec,3367.0,1
+2018,baja california sur,arava,2863.4599609375,2
+2018,baja california sur,lexapro,2850.0,3
+2018,baja california sur,cialis,2739.0,4
+2018,baja california sur,keppra,2610.0,5
+2018,campeche,cytotec,3379.0,1
+2018,campeche,lexapro,2689.0,2
+2018,campeche,arava,2591.0,3
+2018,campeche,keppra,2281.0,4
+2018,campeche,cialis,2279.5,5
+2018,chiapas,cytotec,3535.0,1
+2018,chiapas,lexapro,2850.0,2
+2018,chiapas,arava,2701.0,3
+2018,chiapas,cialis,2608.0,4
+2018,chiapas,lipitor,2558.0,5
+2018,chihuahua,cytotec,3367.18994140625,1
+2018,chihuahua,cialis,2998.0,2
+2018,chihuahua,arava,2863.4599609375,3
+2018,chihuahua,lexapro,2850.0,4
+2018,chihuahua,keppra,2610.0,5
+2018,ciudad de mexico,cytotec,3379.0,1
+2018,ciudad de mexico,lexapro,2850.0,2
+2018,ciudad de mexico,arava,2828.0,3
+2018,ciudad de mexico,cialis,2608.0,4
+2018,ciudad de mexico,lipitor,2558.0,5
+2018,coahuila de zaragoza,cytotec,3379.0,1
+2018,coahuila de zaragoza,cialis,2998.0,2
+2018,coahuila de zaragoza,keppra,2910.0,3
+2018,coahuila de zaragoza,arava,2863.4599609375,4
+2018,coahuila de zaragoza,lexapro,2850.0,5
+2018,colima,cytotec,3366.0,1
+2018,colima,lexapro,2850.0,2
+2018,colima,arava,2596.0,3
+2018,colima,cialis,2281.43994140625,4
+2018,colima,keppra,2193.0,5
+2018,durango,cytotec,3366.0,1
+2018,durango,lexapro,2850.0,2
+2018,durango,cialis,2739.0,3
+2018,durango,arava,2701.0,4
+2018,durango,lipitor,2609.0,5
+2018,estado de mexico,cytotec,3379.0,1
+2018,estado de mexico,cialis,2883.0,2
+2018,estado de mexico,cymbalta,2871.0,3
+2018,estado de mexico,arava,2863.0,4
+2018,estado de mexico,lexapro,2858.0,5
+2018,guanajuato,cytotec,3379.0,1
+2018,guanajuato,arava,2863.0,2
+2018,guanajuato,lexapro,2850.0,3
+2018,guanajuato,cialis,2739.0,4
+2018,guanajuato,keppra,2610.0,5
+2018,guerrero,cytotec,3366.0,1
+2018,guerrero,lexapro,2850.0,2
+2018,guerrero,arava,2591.0,3
+2018,guerrero,lipitor,2358.7900390625,4
+2018,guerrero,cialis,2281.43994140625,5
+2018,hidalgo,cytotec,3379.0,1
+2018,hidalgo,arava,2863.0,2
+2018,hidalgo,lexapro,2850.0,3
+2018,hidalgo,cialis,2739.0,4
+2018,hidalgo,keppra,2610.0,5
+2018,jalisco,cytotec,3367.0,1
+2018,jalisco,cialis,2739.0,2
+2018,jalisco,arava,2701.0,3
+2018,jalisco,lexapro,2689.0,4
+2018,jalisco,keppra,2610.0,5
+2018,michoacan de ocampo,cytotec,3366.0,1
+2018,michoacan de ocampo,lexapro,2856.0,2
+2018,michoacan de ocampo,cialis,2739.0,3
+2018,michoacan de ocampo,arava,2701.0,4
+2018,michoacan de ocampo,keppra,2610.0,5
+2018,morelos,cytotec,3366.0,1
+2018,morelos,lexapro,2689.0,2
+2018,morelos,cialis,2685.0,3
+2018,morelos,arava,2591.0,4
+2018,morelos,lipitor,2258.0,5
+2018,nayarit,cytotec,3379.0,1
+2018,nayarit,lexapro,2850.0,2
+2018,nayarit,cialis,2739.0,3
+2018,nayarit,arava,2701.0,4
+2018,nayarit,lipitor,2609.0,5
+2018,nuevo leon,cytotec,2895.0,1
+2018,nuevo leon,lexapro,2850.0,2
+2018,nuevo leon,cialis,2793.0,3
+2018,nuevo leon,arava,2701.0,4
+2018,nuevo leon,lipitor,2558.0,5
+2018,oaxaca,cytotec,3366.0,1
+2018,oaxaca,lexapro,2689.0,2
+2018,oaxaca,arava,2591.0,3
+2018,oaxaca,cialis,2428.0,4
+2018,oaxaca,keppra,2349.0,5
+2018,puebla,cytotec,3367.18994140625,1
+2018,puebla,arava,2863.4599609375,2
+2018,puebla,lexapro,2850.0,3
+2018,puebla,cialis,2849.0,4
+2018,puebla,lipitor,2609.8701171875,5
+2018,queretaro,cytotec,3379.0,1
+2018,queretaro,arava,2863.0,2
+2018,queretaro,lexapro,2850.0,3
+2018,queretaro,cialis,2849.0,4
+2018,queretaro,keppra,2610.0,5
+2018,quintana roo,cytotec,3366.0,1
+2018,quintana roo,lexapro,2852.0,2
+2018,quintana roo,cialis,2739.0,3
+2018,quintana roo,arava,2705.0,4
+2018,quintana roo,lipitor,2609.0,5
+2018,san luis potosi,cytotec,3379.0,1
+2018,san luis potosi,arava,2863.0,2
+2018,san luis potosi,lexapro,2850.0,3
+2018,san luis potosi,cialis,2739.0,4
+2018,san luis potosi,lipitor,2609.0,5
+2018,sinaloa,cytotec,3367.179931640625,1
+2018,sinaloa,lexapro,3017.139892578125,2
+2018,sinaloa,arava,2863.0,3
+2018,sinaloa,cialis,2739.0,4
+2018,sinaloa,lipitor,2645.7099609375,5
+2018,sonora,cytotec,3379.0,1
+2018,sonora,arava,2863.39990234375,2
+2018,sonora,lexapro,2850.0,3
+2018,sonora,cialis,2739.0,4
+2018,sonora,keppra,2610.0,5
+2018,tabasco,cytotec,3379.0,1
+2018,tabasco,lexapro,2850.0,2
+2018,tabasco,lipitor,2609.8701171875,3
+2018,tabasco,arava,2591.0,4
+2018,tabasco,cialis,2276.0,5
+2018,tamaulipas,cytotec,3366.0,1
+2018,tamaulipas,cialis,2739.0,2
+2018,tamaulipas,lexapro,2689.0,3
+2018,tamaulipas,arava,2591.0,4
+2018,tamaulipas,asenlix,2286.0,5
+2018,tlaxcala,cytotec,3367.18994140625,1
+2018,tlaxcala,cialis,2739.0,2
+2018,tlaxcala,arava,2701.3798828125,3
+2018,tlaxcala,keppra,2610.0,4
+2018,tlaxcala,lipitor,2609.8701171875,5
+2018,veracruz,cytotec,3379.0,1
+2018,veracruz,cialis,2998.0,2
+2018,veracruz,arava,2863.4599609375,3
+2018,veracruz,lexapro,2850.0,4
+2018,veracruz,lipitor,2669.8701171875,5
+2018,yucatan,cytotec,3366.0,1
+2018,yucatan,arava,2863.0,2
+2018,yucatan,lexapro,2850.0,3
+2018,yucatan,cialis,2849.0,4
+2018,yucatan,keppra,2610.0,5
+2018,zacatecas,cytotec,3366.0,1
+2018,zacatecas,arava,2863.39990234375,2
+2018,zacatecas,lexapro,2850.0,3
+2018,zacatecas,cialis,2848.5,4
+2018,zacatecas,lipitor,2609.8701171875,5
+2019,aguascalientes,cytotec,3379.0,1
+2019,aguascalientes,lexapro,3207.0,2
+2019,aguascalientes,arava,2597.0,3
+2019,aguascalientes,keppra,2451.0,4
+2019,aguascalientes,cialis,2405.0,5
+2019,baja california,lexapro,3703.0,1
+2019,baja california,cytotec,3513.39990234375,2
+2019,baja california,arava,2989.429931640625,3
+2019,baja california,cialis,2983.5,4
+2019,baja california,keppra,2830.0,5
+2019,baja california sur,cytotec,3379.0,1
+2019,baja california sur,lexapro,3044.97998046875,2
+2019,baja california sur,arava,2875.2900390625,3
+2019,baja california sur,cialis,2383.840087890625,4
+2019,baja california sur,keppra,2349.89990234375,5
+2019,campeche,cytotec,3379.0,1
+2019,campeche,lexapro,2860.0,2
+2019,campeche,arava,2591.0,3
+2019,campeche,keppra,2473.0,4
+2019,campeche,cialis,2387.0,5
+2019,chiapas,cytotec,3535.0,1
+2019,chiapas,lexapro,3204.0,2
+2019,chiapas,cialis,2983.0,3
+2019,chiapas,arava,2863.0,4
+2019,chiapas,lipitor,2749.0,5
+2019,chihuahua,cytotec,3513.10009765625,1
+2019,chihuahua,lexapro,3306.0,2
+2019,chihuahua,cialis,3119.0,3
+2019,chihuahua,arava,2863.4599609375,4
+2019,chihuahua,lipitor,2748.0,5
+2019,ciudad de mexico,cytotec,3779.0,1
+2019,ciudad de mexico,lexapro,3703.0,2
+2019,ciudad de mexico,arava,2989.0,3
+2019,ciudad de mexico,cialis,2983.0,4
+2019,ciudad de mexico,lipitor,2862.0,5
+2019,coahuila de zaragoza,cytotec,3513.10009765625,1
+2019,coahuila de zaragoza,lexapro,3306.0,2
+2019,coahuila de zaragoza,cialis,2983.5,3
+2019,coahuila de zaragoza,arava,2863.9599609375,4
+2019,coahuila de zaragoza,lipitor,2748.590087890625,5
+2019,colima,cytotec,3513.10009765625,1
+2019,colima,lexapro,3306.0,2
+2019,colima,arava,2863.4599609375,3
+2019,colima,lipitor,2694.68994140625,4
+2019,colima,cialis,2405.0,5
+2019,durango,lexapro,3703.0,1
+2019,durango,cytotec,3379.0,2
+2019,durango,arava,2989.0,3
+2019,durango,cialis,2983.0,4
+2019,durango,lipitor,2748.0,5
+2019,estado de mexico,lexapro,3703.0,1
+2019,estado de mexico,cytotec,3513.10009765625,2
+2019,estado de mexico,arava,2989.0,3
+2019,estado de mexico,cialis,2983.5,4
+2019,estado de mexico,lipitor,2748.590087890625,5
+2019,guanajuato,lexapro,3703.0,1
+2019,guanajuato,cytotec,3379.0,2
+2019,guanajuato,arava,2989.0,3
+2019,guanajuato,cialis,2983.0,4
+2019,guanajuato,lipitor,2748.0,5
+2019,guerrero,cytotec,3379.0,1
+2019,guerrero,lexapro,3306.0,2
+2019,guerrero,arava,2863.0,3
+2019,guerrero,keppra,2451.0,4
+2019,guerrero,cialis,2405.5,5
+2019,hidalgo,lexapro,3703.0,1
+2019,hidalgo,cytotec,3379.0,2
+2019,hidalgo,arava,2989.0,3
+2019,hidalgo,cialis,2983.0,4
+2019,hidalgo,lipitor,2748.0,5
+2019,jalisco,cytotec,3379.0,1
+2019,jalisco,cialis,2983.0,2
+2019,jalisco,lexapro,2944.0,3
+2019,jalisco,keppra,2805.0,4
+2019,jalisco,arava,2591.0,5
+2019,michoacan de ocampo,lexapro,3703.0,1
+2019,michoacan de ocampo,cytotec,3379.0,2
+2019,michoacan de ocampo,cialis,2983.0,3
+2019,michoacan de ocampo,arava,2875.25,4
+2019,michoacan de ocampo,lipitor,2748.0,5
+2019,morelos,cytotec,3366.0,1
+2019,morelos,lexapro,2689.0,2
+2019,morelos,arava,2444.0,3
+2019,morelos,keppra,2198.0,4
+2019,morelos,cialis,2188.0,5
+2019,nayarit,cytotec,3379.0,1
+2019,nayarit,cialis,2739.0,2
+2019,nayarit,arava,2701.0,3
+2019,nayarit,keppra,2349.0,4
+2019,nayarit,lexapro,2280.0,5
+2019,nuevo leon,cytotec,3379.0,1
+2019,nuevo leon,arava,2989.0,2
+2019,nuevo leon,cialis,2983.0,3
+2019,nuevo leon,lexapro,2857.0,4
+2019,nuevo leon,keppra,2405.0,5
+2019,oaxaca,cytotec,3379.0,1
+2019,oaxaca,lexapro,2962.5,2
+2019,oaxaca,arava,2863.4599609375,3
+2019,oaxaca,cialis,2774.0,4
+2019,oaxaca,keppra,2405.5,5
+2019,puebla,lexapro,3703.0,1
+2019,puebla,cytotec,3379.0,2
+2019,puebla,cialis,2983.0,3
+2019,puebla,arava,2875.25,4
+2019,puebla,lipitor,2662.0,5
+2019,queretaro,lexapro,3703.0,1
+2019,queretaro,cytotec,3379.0,2
+2019,queretaro,arava,2989.0,3
+2019,queretaro,cialis,2983.0,4
+2019,queretaro,lipitor,2748.0,5
+2019,quintana roo,lexapro,3703.0,1
+2019,quintana roo,cytotec,3519.10009765625,2
+2019,quintana roo,arava,2989.449951171875,3
+2019,quintana roo,cialis,2983.5,4
+2019,quintana roo,lipitor,2758.0,5
+2019,san luis potosi,lexapro,3703.0,1
+2019,san luis potosi,cytotec,3513.10009765625,2
+2019,san luis potosi,arava,2989.0,3
+2019,san luis potosi,cialis,2983.0,4
+2019,san luis potosi,lipitor,2748.0,5
+2019,sinaloa,cytotec,3379.0,1
+2019,sinaloa,arava,2863.4599609375,2
+2019,sinaloa,lexapro,2857.0,3
+2019,sinaloa,cialis,2849.0,4
+2019,sinaloa,lipitor,2694.0,5
+2019,sonora,lexapro,3703.0,1
+2019,sonora,cytotec,3513.10009765625,2
+2019,sonora,arava,2989.0,3
+2019,sonora,cialis,2983.0,4
+2019,sonora,lipitor,2748.0,5
+2019,tabasco,cytotec,3379.0,1
+2019,tabasco,lexapro,2850.0,2
+2019,tabasco,cialis,2684.0,3
+2019,tabasco,lipitor,2609.8701171875,4
+2019,tabasco,cymbalta,2600.0,5
+2019,tamaulipas,cytotec,3379.0,1
+2019,tamaulipas,lexapro,2857.0,2
+2019,tamaulipas,cialis,2848.5,3
+2019,tamaulipas,arava,2591.0,4
+2019,tamaulipas,keppra,2378.0,5
+2019,tlaxcala,cytotec,3513.10009765625,1
+2019,tlaxcala,lexapro,3207.0,2
+2019,tlaxcala,arava,2752.39990234375,3
+2019,tlaxcala,cialis,2739.0,4
+2019,tlaxcala,keppra,2473.0,5
+2019,veracruz,lexapro,3703.0,1
+2019,veracruz,cytotec,3513.10009765625,2
+2019,veracruz,cialis,2983.0,3
+2019,veracruz,arava,2863.429931640625,4
+2019,veracruz,lipitor,2748.590087890625,5
+2019,yucatan,lexapro,3703.0,1
+2019,yucatan,cytotec,3379.0,2
+2019,yucatan,arava,2989.0,3
+2019,yucatan,cialis,2983.0,4
+2019,yucatan,lipitor,2748.0,5
+2019,zacatecas,lexapro,3705.0,1
+2019,zacatecas,cytotec,3513.10009765625,2
+2019,zacatecas,cialis,2983.5,3
+2019,zacatecas,arava,2863.449951171875,4
+2019,zacatecas,lipitor,2748.590087890625,5
+2020,aguascalientes,lexapro,3539.0,1
+2020,aguascalientes,cytotec,3047.0,2
+2020,aguascalientes,arava,2820.0,3
+2020,aguascalientes,keppra,2634.0,4
+2020,aguascalientes,lipitor,2403.0,5
+2020,baja california,lexapro,3888.0,1
+2020,baja california,cytotec,3513.10009765625,2
+2020,baja california,arava,3109.050048828125,3
+2020,baja california,cialis,2983.5,4
+2020,baja california,lipitor,2833.800048828125,5
+2020,baja california sur,lexapro,3150.06005859375,1
+2020,baja california sur,arava,2984.0,2
+2020,baja california sur,cytotec,2972.080078125,3
+2020,baja california sur,cialis,2685.14990234375,4
+2020,baja california sur,keppra,2465.6298828125,5
+2020,campeche,lexapro,3888.0,1
+2020,campeche,cytotec,3148.0,2
+2020,campeche,lipitor,2833.800048828125,3
+2020,campeche,arava,2820.679931640625,4
+2020,campeche,keppra,2587.0,5
+2020,chiapas,lexapro,3888.0,1
+2020,chiapas,arava,3162.330078125,2
+2020,chiapas,cytotec,2985.0,3
+2020,chiapas,cialis,2983.0,4
+2020,chiapas,lipitor,2833.0,5
+2020,chihuahua,nebulizador,1379.0,1
+2020,chihuahua,termometro,575.0,2
+2020,chihuahua,aderogyl 15,175.6999969482422,3
+2020,chihuahua,antiflu-des,149.2899932861328,4
+2020,chihuahua,antiflu-des jr.,105.80999755859376,5
+2020,ciudad de mexico,lexapro,3898.0,1
+2020,ciudad de mexico,cytotec,3513.0,2
+2020,ciudad de mexico,arava,3109.0,3
+2020,ciudad de mexico,cialis,2983.0,4
+2020,ciudad de mexico,cymbalta,2910.0,5
+2020,coahuila de zaragoza,lexapro,3539.0,1
+2020,coahuila de zaragoza,cytotec,2977.0,2
+2020,coahuila de zaragoza,arava,2876.0,3
+2020,coahuila de zaragoza,keppra,2587.0,4
+2020,coahuila de zaragoza,cialis,2440.0,5
+2020,colima,arava,2561.0,1
+2020,colima,cytotec,2441.0,2
+2020,colima,keppra,2370.0,3
+2020,colima,cialis,2220.0,4
+2020,colima,fosamax plus,1913.0,5
+2020,durango,lexapro,3888.0,1
+2020,durango,cytotec,3513.0,2
+2020,durango,arava,3109.0,3
+2020,durango,cialis,2983.0,4
+2020,durango,lipitor,2833.0,5
+2020,estado de mexico,lexapro,3888.0,1
+2020,estado de mexico,cytotec,3513.0,2
+2020,estado de mexico,arava,3109.030029296875,3
+2020,estado de mexico,cialis,2989.0,4
+2020,estado de mexico,lipitor,2883.0,5
+2020,guanajuato,lexapro,3888.0,1
+2020,guanajuato,cytotec,3513.0,2
+2020,guanajuato,arava,3191.0,3
+2020,guanajuato,keppra,3135.0,4
+2020,guanajuato,cialis,2983.0,5
+2020,guerrero,lexapro,3367.0,1
+2020,guerrero,cytotec,3042.0,2
+2020,guerrero,arava,2684.0,3
+2020,guerrero,keppra,2451.0,4
+2020,guerrero,cialis,2405.5,5
+2020,hidalgo,lexapro,3294.0,1
+2020,hidalgo,cytotec,3047.0,2
+2020,hidalgo,arava,2989.0,3
+2020,hidalgo,cialis,2983.0,4
+2020,hidalgo,keppra,2639.0,5
+2020,jalisco,lexapro,3364.0,1
+2020,jalisco,cytotec,3148.0,2
+2020,jalisco,cialis,2983.0,3
+2020,jalisco,arava,2876.0,4
+2020,jalisco,keppra,2587.0,5
+2020,michoacan de ocampo,lexapro,3888.0,1
+2020,michoacan de ocampo,cytotec,3513.0,2
+2020,michoacan de ocampo,arava,3109.0,3
+2020,michoacan de ocampo,cialis,2983.0,4
+2020,michoacan de ocampo,lipitor,2833.0,5
+2020,morelos,nebulizador,890.0,1
+2020,morelos,termometro,119.30999755859376,2
+2020,morelos,theraflu,113.0,3
+2020,morelos,tempra,104.0,4
+2020,morelos,xl-3 vr,80.0,5
+2020,nayarit,nebulizador,1379.550048828125,1
+2020,nayarit,aderogyl 15,130.0800018310547,2
+2020,nayarit,antiflu-des,104.58999633789062,3
+2020,nayarit,tempra,103.0,4
+2020,nayarit,termometro,93.95999908447266,5
+2020,nuevo leon,cytotec,3513.10009765625,1
+2020,nuevo leon,lexapro,3458.0,2
+2020,nuevo leon,cialis,2983.0,3
+2020,nuevo leon,lipitor,2833.0,4
+2020,nuevo leon,arava,2684.0,5
+2020,oaxaca,cytotec,3231.0,1
+2020,oaxaca,lexapro,3155.0,2
+2020,oaxaca,arava,2887.0,3
+2020,oaxaca,keppra,2587.0,4
+2020,oaxaca,cialis,2535.97998046875,5
+2020,puebla,arava,3326.659912109375,1
+2020,puebla,lexapro,3204.0,2
+2020,puebla,cialis,2983.5,3
+2020,puebla,cytotec,2899.0,4
+2020,puebla,keppra,2587.0,5
+2020,queretaro,lexapro,3888.0,1
+2020,queretaro,cytotec,3513.0,2
+2020,queretaro,arava,3109.0,3
+2020,queretaro,cialis,2983.0,4
+2020,queretaro,cymbalta,2910.0,5
+2020,quintana roo,lexapro,3888.0,1
+2020,quintana roo,cytotec,3513.10009765625,2
+2020,quintana roo,arava,3109.030029296875,3
+2020,quintana roo,cialis,3088.0,4
+2020,quintana roo,lipitor,2833.0,5
+2020,san luis potosi,lexapro,3888.0,1
+2020,san luis potosi,cytotec,3515.5,2
+2020,san luis potosi,arava,3109.030029296875,3
+2020,san luis potosi,cialis,2983.5,4
+2020,san luis potosi,lipitor,2883.0,5
+2020,sinaloa,lexapro,3888.0,1
+2020,sinaloa,cytotec,3513.0,2
+2020,sinaloa,arava,3109.0,3
+2020,sinaloa,cialis,2983.0,4
+2020,sinaloa,lipitor,2833.800048828125,5
+2020,sonora,nebulizador,1379.530029296875,1
+2020,sonora,termometro,575.0,2
+2020,sonora,tempra,107.6999969482422,3
+2020,sonora,gel antibacterial,92.0,4
+2020,sonora,xl-3 vr,75.0,5
+2020,tabasco,lexapro,3155.0,1
+2020,tabasco,cytotec,3148.0,2
+2020,tabasco,arava,2741.0,3
+2020,tabasco,keppra,2587.0,4
+2020,tabasco,cialis,2502.0,5
+2020,tamaulipas,lexapro,4082.0,1
+2020,tamaulipas,cytotec,3513.10009765625,2
+2020,tamaulipas,arava,3326.659912109375,3
+2020,tamaulipas,cialis,2983.0,4
+2020,tamaulipas,lipitor,2834.0,5
+2020,tlaxcala,lexapro,3372.0,1
+2020,tlaxcala,cytotec,3047.0,2
+2020,tlaxcala,arava,2741.0,3
+2020,tlaxcala,keppra,2634.0,4
+2020,tlaxcala,lipitor,2403.0,5
+2020,veracruz,lexapro,3540.320068359375,1
+2020,veracruz,cytotec,3097.0,2
+2020,veracruz,arava,2876.0,3
+2020,veracruz,cialis,2829.0,4
+2020,veracruz,keppra,2690.0,5
+2020,yucatan,lexapro,3888.0,1
+2020,yucatan,cytotec,3513.0,2
+2020,yucatan,cialis,3329.0,3
+2020,yucatan,arava,3109.0,4
+2020,yucatan,lipitor,2833.0,5
+2020,zacatecas,lexapro,3888.0,1
+2020,zacatecas,cytotec,3513.10009765625,2
+2020,zacatecas,cialis,3024.60009765625,3
+2020,zacatecas,arava,2989.449951171875,4
+2020,zacatecas,lipitor,2833.0,5
+2021,aguascalientes,arava,3667.0,1
+2021,aguascalientes,cytotec,3653.0,2
+2021,aguascalientes,lexapro,3539.0,3
+2021,aguascalientes,cialis,3242.0,4
+2021,aguascalientes,keppra,3035.0,5
+2021,baja california,lexapro,3888.0,1
+2021,baja california,arava,3667.639892578125,2
+2021,baja california,cytotec,3653.60009765625,3
+2021,baja california,cialis,3088.0,4
+2021,baja california,keppra,3035.0,5
+2021,baja california sur,lexapro,3673.800048828125,1
+2021,baja california sur,cytotec,3257.929931640625,2
+2021,baja california sur,arava,3223.1201171875,3
+2021,baja california sur,cialis,2535.0,4
+2021,baja california sur,keppra,2465.6298828125,5
+2021,campeche,lexapro,3539.090087890625,1
+2021,campeche,arava,3492.010009765625,2
+2021,campeche,cytotec,3357.0,3
+2021,campeche,keppra,2587.0,4
+2021,campeche,lipitor,2474.860107421875,5
+2021,chiapas,lexapro,4082.0,1
+2021,chiapas,arava,3667.68994140625,2
+2021,chiapas,cytotec,3653.6201171875,3
+2021,chiapas,cialis,3088.0,4
+2021,chiapas,keppra,3035.0,5
+2021,chihuahua,lexapro,4082.0,1
+2021,chihuahua,arava,3667.639892578125,2
+2021,chihuahua,cytotec,3653.0,3
+2021,chihuahua,cialis,3242.0,4
+2021,chihuahua,keppra,3035.0,5
+2021,ciudad de mexico,lexapro,4082.0,1
+2021,ciudad de mexico,arava,3690.0,2
+2021,ciudad de mexico,cytotec,3653.0,3
+2021,ciudad de mexico,cialis,3170.0,4
+2021,ciudad de mexico,keppra,3035.0,5
+2021,coahuila de zaragoza,lexapro,3694.1201171875,1
+2021,coahuila de zaragoza,cytotec,3653.0,2
+2021,coahuila de zaragoza,arava,3171.0,3
+2021,coahuila de zaragoza,keppra,2587.0,4
+2021,coahuila de zaragoza,cialis,2525.0,5
+2021,durango,lexapro,3673.800048828125,1
+2021,durango,cytotec,3359.0,2
+2021,durango,arava,3171.0,3
+2021,durango,keppra,2587.0,4
+2021,durango,cialis,2525.0,5
+2021,estado de mexico,lexapro,3925.0,1
+2021,estado de mexico,cytotec,3659.0,2
+2021,estado de mexico,arava,3492.0,3
+2021,estado de mexico,cialis,3088.0,4
+2021,estado de mexico,keppra,3035.0,5
+2021,guanajuato,lexapro,3888.0,1
+2021,guanajuato,arava,3863.5,2
+2021,guanajuato,cytotec,3653.0,3
+2021,guanajuato,keppra,3035.0,4
+2021,guanajuato,lipitor,2998.0,5
+2021,guerrero,lexapro,3409.0,1
+2021,guerrero,cytotec,3169.0,2
+2021,guerrero,arava,2950.0,3
+2021,guerrero,keppra,2634.0,4
+2021,guerrero,keflex pediatrico,2587.0,5
+2021,hidalgo,lexapro,3458.0,1
+2021,hidalgo,cialis,3088.0,2
+2021,hidalgo,cytotec,3015.0,3
+2021,hidalgo,arava,2950.0,4
+2021,hidalgo,lipitor,2475.0,5
+2021,jalisco,lexapro,3369.0,1
+2021,jalisco,cytotec,3359.60009765625,2
+2021,jalisco,arava,3171.0,3
+2021,jalisco,cialis,3088.0,4
+2021,jalisco,keppra,2587.0,5
+2021,michoacan de ocampo,lexapro,4082.0,1
+2021,michoacan de ocampo,cytotec,3653.6201171875,2
+2021,michoacan de ocampo,arava,3492.989990234375,3
+2021,michoacan de ocampo,cialis,3088.0,4
+2021,michoacan de ocampo,keppra,3055.0,5
+2021,morelos,cytotec,3653.0,1
+2021,morelos,lexapro,3425.0,2
+2021,morelos,arava,3100.0,3
+2021,morelos,keppra,3035.0,4
+2021,morelos,lipitor,2918.0,5
+2021,nuevo leon,lexapro,3888.0,1
+2021,nuevo leon,cytotec,3653.919921875,2
+2021,nuevo leon,arava,3199.0,3
+2021,nuevo leon,cialis,3088.0,4
+2021,nuevo leon,lipitor,2918.81005859375,5
+2021,oaxaca,lexapro,3409.0,1
+2021,oaxaca,cytotec,3359.0,2
+2021,oaxaca,arava,2969.0,3
+2021,oaxaca,cialis,2624.800048828125,4
+2021,oaxaca,keppra,2587.0,5
+2021,puebla,lexapro,3541.0,1
+2021,puebla,cytotec,3257.929931640625,2
+2021,puebla,arava,3233.1201171875,3
+2021,puebla,cialis,3088.0,4
+2021,puebla,lipitor,2918.0,5
+2021,queretaro,lexapro,4082.0,1
+2021,queretaro,cytotec,3654.0,2
+2021,queretaro,arava,3492.0,3
+2021,queretaro,cialis,3088.0,4
+2021,queretaro,keppra,3035.0,5
+2021,quintana roo,lexapro,4082.0,1
+2021,quintana roo,cytotec,3559.0,2
+2021,quintana roo,cialis,3242.5,3
+2021,quintana roo,arava,3117.489990234375,4
+2021,quintana roo,keppra,3035.0,5
+2021,san luis potosi,lexapro,4082.0,1
+2021,san luis potosi,cytotec,3655.0,2
+2021,san luis potosi,arava,3492.0,3
+2021,san luis potosi,keppra,3404.0,4
+2021,san luis potosi,cialis,3088.0,5
+2021,sinaloa,lexapro,3888.0,1
+2021,sinaloa,cytotec,3653.0,2
+2021,sinaloa,arava,3109.0,3
+2021,sinaloa,cialis,3088.0,4
+2021,sinaloa,keppra,3053.0,5
+2021,sonora,lexapro,4082.0,1
+2021,sonora,arava,3667.840087890625,2
+2021,sonora,cytotec,3653.6201171875,3
+2021,sonora,cialis,3292.5,4
+2021,sonora,keppra,3035.0,5
+2021,tabasco,lexapro,3539.090087890625,1
+2021,tabasco,cytotec,3359.0,2
+2021,tabasco,arava,2961.0,3
+2021,tabasco,xatral-od,2678.139892578125,4
+2021,tabasco,keppra,2587.0,5
+2021,tamaulipas,lexapro,4082.0,1
+2021,tamaulipas,cytotec,3653.0,2
+2021,tamaulipas,arava,3326.659912109375,3
+2021,tamaulipas,cialis,3088.0,4
+2021,tamaulipas,keppra,3035.0,5
+2021,tlaxcala,lexapro,3541.0,1
+2021,tlaxcala,cytotec,3169.0,2
+2021,tlaxcala,arava,3108.0,3
+2021,tlaxcala,keppra,2634.0,4
+2021,tlaxcala,lipitor,2609.0,5
+2021,veracruz,lexapro,3539.0,1
+2021,veracruz,cytotec,3456.0,2
+2021,veracruz,arava,3183.0,3
+2021,veracruz,cialis,2932.0,4
+2021,veracruz,keppra,2857.0,5
+2021,yucatan,lexapro,3888.0,1
+2021,yucatan,cytotec,3653.0,2
+2021,yucatan,arava,3492.0,3
+2021,yucatan,cialis,3088.0,4
+2021,yucatan,keppra,3035.0,5
+2021,zacatecas,lexapro,4082.0,1
+2021,zacatecas,cytotec,3359.0,2
+2021,zacatecas,arava,3171.0,3
+2021,zacatecas,cialis,3088.0,4
+2021,zacatecas,lipitor,2626.929931640625,5
+2022,aguascalientes,lexapro,3909.0,1
+2022,aguascalientes,cytotec,3836.0,2
+2022,aguascalientes,arava,3667.0,3
+2022,aguascalientes,keppra,3263.0,4
+2022,aguascalientes,cialis,3242.0,5
+2022,baja california,arava,3950.0,1
+2022,baja california,cytotec,3604.0,2
+2022,baja california,cialis,3580.0,3
+2022,baja california,lexapro,3512.0,4
+2022,baja california,keppra,3263.0,5
+2022,baja california sur,lexapro,4082.0,1
+2022,baja california sur,arava,3607.840087890625,2
+2022,baja california sur,cytotec,3420.830078125,3
+2022,baja california sur,keppra,2825.760009765625,4
+2022,baja california sur,cialis,2619.0,5
+2022,campeche,lexapro,3512.0,1
+2022,campeche,cytotec,3165.0,2
+2022,campeche,arava,3073.0,3
+2022,campeche,cialis,2715.0,4
+2022,campeche,keppra,2650.0,5
+2022,chiapas,lexapro,3541.0,1
+2022,chiapas,cytotec,3499.0,2
+2022,chiapas,arava,3334.0,3
+2022,chiapas,keppra,3035.0,4
+2022,chiapas,cialis,2946.0,5
+2022,chihuahua,arava,4071.989990234375,1
+2022,chihuahua,lexapro,3888.0,2
+2022,chihuahua,cytotec,3604.0,3
+2022,chihuahua,cialis,3307.0,4
+2022,chihuahua,keppra,3263.0,5
+2022,ciudad de mexico,lexapro,3991.0,1
+2022,ciudad de mexico,cytotec,3653.0,2
+2022,ciudad de mexico,arava,3461.0,3
+2022,ciudad de mexico,cymbalta,3166.0,4
+2022,ciudad de mexico,keppra,3035.0,5
+2022,coahuila de zaragoza,arava,3651.0,1
+2022,coahuila de zaragoza,cytotec,3604.0,2
+2022,coahuila de zaragoza,lexapro,3583.0,3
+2022,coahuila de zaragoza,cialis,2983.5,4
+2022,coahuila de zaragoza,keppra,2813.0,5
+2022,durango,lexapro,3674.0,1
+2022,durango,cytotec,3604.0,2
+2022,durango,arava,3536.0,3
+2022,durango,keppra,2788.0,4
+2022,durango,cialis,2664.0,5
+2022,estado de mexico,lexapro,3664.0,1
+2022,estado de mexico,cytotec,3604.0,2
+2022,estado de mexico,arava,3536.0,3
+2022,estado de mexico,keppra,3035.0,4
+2022,estado de mexico,lipitor,2918.0,5
+2022,guanajuato,cytotec,3852.0,1
+2022,guanajuato,arava,3651.0,2
+2022,guanajuato,lexapro,3583.0,3
+2022,guanajuato,keppra,3035.0,4
+2022,guanajuato,lipitor,2918.0,5
+2022,guerrero,aspirina,99.0,1
+2022,guerrero,tempra,90.0999984741211,2
+2022,guerrero,tabcin,76.0,3
+2022,guerrero,sedalmerck,69.0,4
+2022,guerrero,cafiaspirina,68.0,5
+2022,hidalgo,cytotec,3499.0,1
+2022,hidalgo,lexapro,3460.0,2
+2022,hidalgo,arava,3164.0,3
+2022,hidalgo,keppra,2833.0,4
+2022,hidalgo,cialis,2639.0,5
+2022,jalisco,arava,3651.0,1
+2022,jalisco,lexapro,3583.0,2
+2022,jalisco,cytotec,3479.0,3
+2022,jalisco,keppra,2813.0,4
+2022,jalisco,cialis,2717.0,5
+2022,michoacan de ocampo,lexapro,4082.0,1
+2022,michoacan de ocampo,cytotec,3837.0,2
+2022,michoacan de ocampo,arava,3759.110107421875,3
+2022,michoacan de ocampo,keppra,3055.0,4
+2022,michoacan de ocampo,lipitor,2918.81005859375,5
+2022,morelos,lexapro,3512.0,1
+2022,morelos,cytotec,3499.0,2
+2022,morelos,arava,3241.0,3
+2022,morelos,keppra,3035.0,4
+2022,morelos,lipitor,2918.0,5
+2022,nuevo leon,lexapro,3888.0,1
+2022,nuevo leon,cytotec,3836.5,2
+2022,nuevo leon,arava,3651.0,3
+2022,nuevo leon,cialis,3307.0,4
+2022,nuevo leon,lipitor,2833.800048828125,5
+2022,oaxaca,cytotec,3604.0,1
+2022,oaxaca,lexapro,3409.0,2
+2022,oaxaca,arava,3280.0,3
+2022,oaxaca,keppra,2716.0,4
+2022,oaxaca,cialis,2619.0,5
+2022,puebla,arava,3635.0,1
+2022,puebla,cytotec,3561.0,2
+2022,puebla,lexapro,3541.0,3
+2022,puebla,lipitor,2918.81005859375,4
+2022,puebla,keppra,2864.0,5
+2022,queretaro,lexapro,3877.0,1
+2022,queretaro,arava,3736.0,2
+2022,queretaro,cytotec,3693.0,3
+2022,queretaro,keppra,3099.0,4
+2022,queretaro,cialis,3079.0,5
+2022,quintana roo,cytotec,4104.83984375,1
+2022,quintana roo,lexapro,4082.0,2
+2022,quintana roo,arava,3933.5400390625,3
+2022,quintana roo,cialis,3307.0,4
+2022,quintana roo,keppra,3263.0,5
+2022,san luis potosi,cytotec,3836.5,1
+2022,san luis potosi,arava,3663.89990234375,2
+2022,san luis potosi,lexapro,3649.699951171875,3
+2022,san luis potosi,cialis,3307.0,4
+2022,san luis potosi,keppra,3055.0,5
+2022,sinaloa,lexapro,4082.0,1
+2022,sinaloa,cytotec,3999.0,2
+2022,sinaloa,arava,3760.5,3
+2022,sinaloa,keppra,3263.0,4
+2022,sinaloa,lipitor,3035.56005859375,5
+2022,sonora,lexapro,4082.0,1
+2022,sonora,arava,3734.110107421875,2
+2022,sonora,cytotec,3660.2900390625,3
+2022,sonora,cialis,3242.5,4
+2022,sonora,lipitor,2918.81005859375,5
+2022,tabasco,cytotec,3604.0,1
+2022,tabasco,lexapro,3583.0,2
+2022,tabasco,arava,3422.0,3
+2022,tabasco,keppra,2813.0,4
+2022,tabasco,cialis,2699.0,5
+2022,tamaulipas,lexapro,4082.0,1
+2022,tamaulipas,arava,4072.0,2
+2022,tamaulipas,cytotec,3660.0,3
+2022,tamaulipas,lipitor,3035.0,4
+2022,tamaulipas,keppra,2986.0,5
+2022,tlaxcala,arava,4071.2099609375,1
+2022,tlaxcala,lexapro,3888.0,2
+2022,tlaxcala,cytotec,3604.0,3
+2022,tlaxcala,keppra,3263.0,4
+2022,tlaxcala,lipitor,3035.56005859375,5
+2022,veracruz,arava,3933.5400390625,1
+2022,veracruz,cytotec,3836.0,2
+2022,veracruz,lexapro,3583.0,3
+2022,veracruz,cialis,3570.0,4
+2022,veracruz,keppra,2833.0,5
+2022,yucatan,arava,3933.5400390625,1
+2022,yucatan,cytotec,3604.0,2
+2022,yucatan,lexapro,3583.0,3
+2022,yucatan,cialis,3307.0,4
+2022,yucatan,lipitor,3035.659912109375,5
+2022,zacatecas,cytotec,3913.030029296875,1
+2022,zacatecas,arava,3651.0,2
+2022,zacatecas,lexapro,3583.0,3
+2022,zacatecas,cialis,3307.0,4
+2022,zacatecas,lipitor,3035.360107421875,5
+2023,aguascalientes,arava,5040.0,1
+2023,aguascalientes,cytotec,3902.0,2
+2023,aguascalientes,lexapro,3849.0,3
+2023,aguascalientes,lipitor,3248.0,4
+2023,aguascalientes,keppra,3117.0,5
+2023,baja california,arava,4659.0,1
+2023,baja california,lexapro,4204.0,2
+2023,baja california,cytotec,3749.0,3
+2023,baja california,keppra,3492.0,4
+2023,baja california,cialis,3085.0,5
+2023,baja california sur,cytotec,3897.0,1
+2023,baja california sur,lexapro,3583.0,2
+2023,baja california sur,arava,3482.75,3
+2023,baja california sur,keppra,3024.070068359375,4
+2023,baja california sur,cialis,2808.0,5
+2023,campeche,arava,4061.0,1
+2023,campeche,cytotec,3900.5,2
+2023,campeche,lexapro,3257.4599609375,3
+2023,campeche,cialis,2926.85009765625,4
+2023,campeche,lipitor,2726.0,5
+2023,chiapas,arava,3876.0,1
+2023,chiapas,cytotec,3799.0,2
+2023,chiapas,lexapro,3728.0,3
+2023,chiapas,keppra,3062.0,4
+2023,chiapas,lipitor,2726.0,5
+2023,chihuahua,arava,5035.0,1
+2023,chihuahua,cytotec,3897.0,2
+2023,chihuahua,lexapro,3759.0,3
+2023,chihuahua,keppra,3555.0,4
+2023,chihuahua,cialis,3406.0,5
+2023,ciudad de mexico,arava,4476.0,1
+2023,ciudad de mexico,lexapro,3849.0,2
+2023,ciudad de mexico,aprovel,3819.0,3
+2023,ciudad de mexico,cytotec,3799.0,4
+2023,ciudad de mexico,keppra,3047.0,5
+2023,coahuila de zaragoza,arava,5035.0,1
+2023,coahuila de zaragoza,cytotec,3897.0,2
+2023,coahuila de zaragoza,lexapro,3728.0,3
+2023,coahuila de zaragoza,keppra,3117.0,4
+2023,coahuila de zaragoza,cialis,2808.0,5
+2023,durango,arava,4034.0,1
+2023,durango,cytotec,3897.0,2
+2023,durango,lexapro,3728.0,3
+2023,durango,keppra,3117.0,4
+2023,durango,cialis,3006.56005859375,5
+2023,estado de mexico,arava,4034.0,1
+2023,estado de mexico,lexapro,3929.0,2
+2023,estado de mexico,cytotec,3799.0,3
+2023,estado de mexico,cymbalta,3275.0,4
+2023,estado de mexico,keppra,3115.0,5
+2023,guanajuato,arava,5035.0,1
+2023,guanajuato,lexapro,3988.0,2
+2023,guanajuato,cytotec,3902.0,3
+2023,guanajuato,keppra,3169.0,4
+2023,guanajuato,cymbalta,3154.0,5
+2023,guerrero,tempra,183.0,1
+2023,guerrero,cafiaspirina,133.0,2
+2023,guerrero,aspirina,110.0,3
+2023,guerrero,tabcin,76.0,4
+2023,guerrero,suplemento alimenticio,61.0,5
+2023,hidalgo,arava,3876.0,1
+2023,hidalgo,lexapro,3849.0,2
+2023,hidalgo,cytotec,3749.0,3
+2023,hidalgo,keppra,3042.0,4
+2023,hidalgo,lipitor,2763.0,5
+2023,jalisco,arava,4034.0,1
+2023,jalisco,cytotec,3902.0,2
+2023,jalisco,lexapro,3849.0,3
+2023,jalisco,keppra,3117.0,4
+2023,jalisco,cialis,2808.0,5
+2023,michoacan de ocampo,arava,4924.740234375,1
+2023,michoacan de ocampo,lexapro,3849.0,2
+2023,michoacan de ocampo,cytotec,3806.699951171875,3
+2023,michoacan de ocampo,keppra,3042.0,4
+2023,michoacan de ocampo,cialis,3006.56005859375,5
+2023,morelos,arava,4659.0,1
+2023,morelos,cytotec,4269.0400390625,2
+2023,morelos,lexapro,4204.0,3
+2023,morelos,keppra,3492.0,4
+2023,morelos,cialis,3406.0,5
+2023,nuevo leon,arava,5040.0,1
+2023,nuevo leon,cytotec,4104.83984375,2
+2023,nuevo leon,lexapro,3789.0,3
+2023,nuevo leon,keppra,3117.0,4
+2023,nuevo leon,cialis,2808.0,5
+2023,oaxaca,arava,3876.0,1
+2023,oaxaca,cytotec,3749.0,2
+2023,oaxaca,lexapro,3728.0,3
+2023,oaxaca,keppra,3042.0,4
+2023,oaxaca,cialis,2976.0,5
+2023,puebla,arava,4476.0,1
+2023,puebla,cytotec,3806.699951171875,2
+2023,puebla,lexapro,3740.0,3
+2023,puebla,keppra,3119.0,4
+2023,puebla,cialis,2918.780029296875,5
+2023,queretaro,arava,5040.0,1
+2023,queretaro,cytotec,3897.0,2
+2023,queretaro,lexapro,3798.0,3
+2023,queretaro,cialis,3400.0,4
+2023,queretaro,keppra,3317.0,5
+2023,quintana roo,arava,4483.75,1
+2023,quintana roo,lexapro,4204.0,2
+2023,quintana roo,cytotec,4104.83984375,3
+2023,quintana roo,keppra,3492.0,4
+2023,quintana roo,cialis,3406.0,5
+2023,san luis potosi,arava,5035.0,1
+2023,san luis potosi,cytotec,3899.0,2
+2023,san luis potosi,lexapro,3849.0,3
+2023,san luis potosi,keppra,3117.0,4
+2023,san luis potosi,cialis,2982.0,5
+2023,sinaloa,lactacyd,79.5,1
+2023,sonora,arava,5035.0,1
+2023,sonora,cytotec,3897.0,2
+2023,sonora,lexapro,3849.0,3
+2023,sonora,keppra,3263.0,4
+2023,sonora,cialis,3242.5,5
+2023,tabasco,arava,3900.0,1
+2023,tabasco,lexapro,3849.0,2
+2023,tabasco,cytotec,3749.0,3
+2023,tabasco,keppra,3042.0,4
+2023,tabasco,cialis,2888.0,5
+2023,tamaulipas,arava,5040.0,1
+2023,tamaulipas,cytotec,3902.0,2
+2023,tamaulipas,lexapro,3749.0,3
+2023,tamaulipas,keppra,3117.0,4
+2023,tamaulipas,lipitor,3035.0,5
+2023,tlaxcala,arava,4282.0,1
+2023,tlaxcala,lexapro,3888.0,2
+2023,tlaxcala,cytotec,3749.0,3
+2023,tlaxcala,keppra,3263.0,4
+2023,tlaxcala,cialis,3006.56005859375,5
+2023,veracruz,arava,4035.0,1
+2023,veracruz,cytotec,3799.0,2
+2023,veracruz,lexapro,3798.0,3
+2023,veracruz,keppra,3492.0,4
+2023,veracruz,cialis,2791.0,5
+2023,yucatan,arava,4282.0,1
+2023,yucatan,cytotec,3749.0,2
+2023,yucatan,lexapro,3728.0,3
+2023,yucatan,keppra,3092.0,4
+2023,yucatan,cialis,2808.0,5
+2023,zacatecas,arava,4069.89990234375,1
+2023,zacatecas,cytotec,3749.0,2
+2023,zacatecas,lexapro,3728.0,3
+2023,zacatecas,cialis,3307.0,4
+2023,zacatecas,keppra,3042.0,5
+2024,aguascalientes,arava,5040.0,1
+2024,aguascalientes,cytotec,4058.0,2
+2024,aguascalientes,lexapro,3849.0,3
+2024,aguascalientes,keppra,3320.0,4
+2024,aguascalientes,cialis,2942.0,5
+2024,baja california,arava,5275.0,1
+2024,baja california,cytotec,4269.0400390625,2
+2024,baja california,lexapro,4203.990234375,3
+2024,baja california,cialis,3614.0,4
+2024,baja california,keppra,3492.010009765625,5
+2024,baja california sur,arava,3428.75,1
+2024,baja california sur,cytotec,3401.77001953125,2
+2024,baja california sur,keppra,2950.64990234375,3
+2024,baja california sur,lipitor,2879.0,4
+2024,baja california sur,lexapro,2857.800048828125,5
+2024,campeche,arava,4264.0,1
+2024,campeche,cytotec,3715.0,2
+2024,campeche,lexapro,3257.4599609375,3
+2024,campeche,cialis,2808.0,4
+2024,campeche,lipitor,2756.0,5
+2024,chiapas,arava,3900.0,1
+2024,chiapas,cytotec,3895.0,2
+2024,chiapas,lexapro,3728.0,3
+2024,chiapas,keppra,3042.0,4
+2024,chiapas,cialis,2808.0,5
+2024,chihuahua,arava,5275.0,1
+2024,chihuahua,cytotec,4058.0,2
+2024,chihuahua,lexapro,3777.0,3
+2024,chihuahua,keppra,3320.0,4
+2024,chihuahua,lantus. insulina glargina,3119.0,5
+2024,ciudad de mexico,arava,4521.0,1
+2024,ciudad de mexico,cytotec,3900.0,2
+2024,ciudad de mexico,lexapro,3827.0,3
+2024,ciudad de mexico,keppra,3085.0,4
+2024,ciudad de mexico,cialis,2940.0,5
+2024,coahuila de zaragoza,arava,5040.0,1
+2024,coahuila de zaragoza,cytotec,4219.0,2
+2024,coahuila de zaragoza,lexapro,3728.0,3
+2024,coahuila de zaragoza,keppra,3320.0,4
+2024,coahuila de zaragoza,lipitor,2879.0,5
+2024,durango,arava,5040.0,1
+2024,durango,cytotec,4058.0,2
+2024,durango,lexapro,3728.0,3
+2024,durango,keppra,3320.0,4
+2024,durango,cialis,3006.580078125,5
+2024,estado de mexico,arava,4021.0,1
+2024,estado de mexico,cytotec,3902.0,2
+2024,estado de mexico,lexapro,3782.0,3
+2024,estado de mexico,keppra,3117.0,4
+2024,estado de mexico,cialis,3006.56005859375,5
+2024,guanajuato,arava,5040.0,1
+2024,guanajuato,cytotec,4219.0,2
+2024,guanajuato,lexapro,3988.0,3
+2024,guanajuato,keppra,3320.0,4
+2024,guanajuato,cymbalta,3154.0,5
+2024,guerrero,arava,5275.0,1
+2024,guerrero,cytotec,4439.7998046875,2
+2024,guerrero,lexapro,3795.0,3
+2024,guerrero,keppra,3492.0,4
+2024,guerrero,cialis,2849.0,5
+2024,hidalgo,arava,3900.0,1
+2024,hidalgo,cytotec,3895.0,2
+2024,hidalgo,lexapro,3728.0,3
+2024,hidalgo,keppra,3042.0,4
+2024,hidalgo,cialis,2808.0,5
+2024,jalisco,arava,5040.0,1
+2024,jalisco,cytotec,4058.0,2
+2024,jalisco,lexapro,3728.0,3
+2024,jalisco,keppra,3320.0,4
+2024,jalisco,cialis,2898.320068359375,5
+2024,michoacan de ocampo,arava,4021.1298828125,1
+2024,michoacan de ocampo,cytotec,3895.0,2
+2024,michoacan de ocampo,lexapro,3849.0,3
+2024,michoacan de ocampo,keppra,3042.0,4
+2024,michoacan de ocampo,cialis,3006.56005859375,5
+2024,morelos,arava,4659.0,1
+2024,morelos,cytotec,4269.0,2
+2024,morelos,lexapro,4204.0,3
+2024,morelos,keppra,3492.0,4
+2024,morelos,cialis,3406.0,5
+2024,nuevo leon,arava,5040.0,1
+2024,nuevo leon,cytotec,4219.0,2
+2024,nuevo leon,lexapro,3789.0,3
+2024,nuevo leon,keppra,3320.0,4
+2024,nuevo leon,lipitor,2879.0,5
+2024,oaxaca,arava,3900.0,1
+2024,oaxaca,cytotec,3895.0,2
+2024,oaxaca,lexapro,3728.0,3
+2024,oaxaca,keppra,2954.5400390625,4
+2024,oaxaca,cialis,2808.0,5
+2024,puebla,arava,4521.0,1
+2024,puebla,cytotec,3898.0,2
+2024,puebla,lexapro,3740.0,3
+2024,puebla,keppra,3070.0,4
+2024,puebla,cialis,3006.56005859375,5
+2024,queretaro,arava,5040.0,1
+2024,queretaro,cytotec,4058.0,2
+2024,queretaro,lexapro,3897.0,3
+2024,queretaro,keppra,3347.0,4
+2024,queretaro,cialis,3252.0,5
+2024,quintana roo,arava,4611.25,1
+2024,quintana roo,lexapro,4330.0,2
+2024,quintana roo,cytotec,3898.0,3
+2024,quintana roo,keppra,3719.0,4
+2024,quintana roo,cialis,2849.0,5
+2024,san luis potosi,arava,5040.0,1
+2024,san luis potosi,cytotec,4219.0,2
+2024,san luis potosi,lexapro,3849.0,3
+2024,san luis potosi,keppra,3380.0,4
+2024,san luis potosi,cialis,2983.5,5
+2024,sonora,arava,5040.0,1
+2024,sonora,cytotec,4058.0,2
+2024,sonora,lexapro,3849.0,3
+2024,sonora,keppra,3320.0,4
+2024,sonora,lipitor,2879.0,5
+2024,tabasco,arava,3928.75,1
+2024,tabasco,cytotec,3895.0,2
+2024,tabasco,lexapro,3849.0,3
+2024,tabasco,keppra,3085.0,4
+2024,tabasco,cialis,2888.0,5
+2024,tamaulipas,arava,5040.0,1
+2024,tamaulipas,cytotec,4219.0,2
+2024,tamaulipas,lexapro,3728.0,3
+2024,tamaulipas,keppra,3320.0,4
+2024,tamaulipas,lantus. insulina glargina,3069.0,5
+2024,tlaxcala,arava,4282.0,1
+2024,tlaxcala,cytotec,3895.0,2
+2024,tlaxcala,lexapro,3728.0,3
+2024,tlaxcala,keppra,3042.0,4
+2024,tlaxcala,cialis,3006.56005859375,5
+2024,veracruz,arava,5040.0,1
+2024,veracruz,cytotec,4058.0,2
+2024,veracruz,lexapro,3745.0,3
+2024,veracruz,keppra,3117.0,4
+2024,veracruz,cialis,2849.0,5
+2024,yucatan,arava,4282.0,1
+2024,yucatan,cytotec,3895.0,2
+2024,yucatan,lexapro,3728.0,3
+2024,yucatan,keppra,3042.0,4
+2024,yucatan,cialis,2808.0,5
+2024,zacatecas,arava,4034.0,1
+2024,zacatecas,cytotec,3895.0,2
+2024,zacatecas,lexapro,3728.0,3
+2024,zacatecas,cialis,3307.0,4
+2024,zacatecas,keppra,3042.0,5

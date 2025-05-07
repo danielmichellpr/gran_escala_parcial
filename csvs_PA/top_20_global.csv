@@ -1,0 +1,61 @@
+catalogo,categoria,cont_anio_categoria,orden_categoria
+basicos,arts. para el cuidado personal,6490858,1
+basicos,refrescos envasados,3709951,2
+basicos,derivados de leche,3453506,3
+basicos,detergentes y productos similares,3304152,4
+basicos,carnes frias secas y embutidos,3038610,5
+basicos,arts. de papel p/higiene personal,2877146,6
+basicos,chocolates y golosinas,2620076,7
+basicos,condimentos,2570467,8
+basicos,frutas y legumbres procesadas,2283264,9
+basicos,leche procesada,2186973,10
+basicos,galletas pastas y harinas de trigo,2175217,11
+basicos,pan,1554247,12
+basicos,arroz y cereales preparados,1352527,13
+basicos,aceites y grasas veg. comestibles,1129757,14
+basicos,pescados y mariscos en conserva,888195,15
+basicos,legumbres secas,885984,16
+basicos,tortillas y derivados del maiz,834520,17
+basicos,carne y visceras de res,756617,18
+basicos,cafe,642200,19
+basicos,huevo,290335,20
+electrodomesticos,aparatos electricos,4494133,1
+electrodomesticos,aparatos electronicos,2380953,2
+electrodomesticos,arts. de esparcimiento (juguetes),171262,3
+electrodomesticos,utensilios domesticos,124549,4
+frutas y legumbres,hortalizas frescas,2728645,1
+frutas y legumbres,frutas frescas,2067418,2
+frutas y legumbres,productos de temporada (navidenos),231356,3
+frutas y legumbres,productos de temporada (navide~nos),8024,4
+frutas y legumbres,condimentos,3020,5
+juguetes,arts. de esparcimiento (juguetes),1432179,1
+medicamentos,medicamentos,18539554,1
+medicamentos,arts. para el cuidado personal,670365,2
+mercados,detergentes y productos similares,290540,1
+mercados,condimentos,264153,2
+mercados,legumbres secas,229252,3
+mercados,carne y visceras de res,168531,4
+mercados,carne y visceras de cerdo,166534,5
+mercados,derivados de leche,128417,6
+mercados,frutas y legumbres procesadas,117842,7
+mercados,carnes frias secas y embutidos,110503,8
+mercados,chocolates y golosinas,89252,9
+mercados,productos de temporada (navidenos),79685,10
+mercados,aceites y grasas veg. comestibles,72691,11
+mercados,pan,50640,12
+mercados,carne de ave,47997,13
+mercados,arroz y cereales preparados,47640,14
+mercados,leche procesada,45072,15
+mercados,galletas pastas y harinas de trigo,40615,16
+mercados,arts. para el cuidado personal,37830,17
+mercados,pescados y mariscos en conserva,32334,18
+mercados,refrescos envasados,28352,19
+mercados,cafe,26662,20
+navideno,vinos y licores,147709,1
+navideno,productos de temporada (navidenos),81817,2
+navideno,productos de temporada (navide~nos),6975,3
+navideno,condimentos,9,4
+pescados y mariscos,pescados y mariscos,542361,1
+pescados y mariscos,pescados y mariscos en conserva,26439,2
+utiles escolares,material escolar,2948933,1
+utiles escolares,aparatos electronicos,2801,2

@@ -1,0 +1,571 @@
+anio,catalogo,categoria,cont_anio_catalogo,cont_anio_categoria
+2018,basicos,pescados y mariscos,8804761,1984
+2018,basicos,utensilios domesticos,8804761,1985
+2018,basicos,grasas animales comestibles,8804761,10669
+2018,basicos,cigarrillos,8804761,11020
+2018,basicos,alimentos cocinados f/casa,8804761,11931
+2018,basicos,medicamentos,8804761,12202
+2018,basicos,te,8804761,12499
+2018,basicos,azucar,8804761,37456
+2018,basicos,leche fresca,8804761,41048
+2018,basicos,hortalizas frescas,8804761,45609
+2018,basicos,accesorios domesticos,8804761,50971
+2018,basicos,carne de ave,8804761,62761
+2018,basicos,productos de temporada (navidenos),8804761,81766
+2018,basicos,huevo,8804761,88322
+2018,basicos,carne y visceras de cerdo,8804761,107140
+2018,basicos,vinos y licores,8804761,118495
+2018,basicos,carne y visceras de res,8804761,138173
+2018,basicos,pescados y mariscos en conserva,8804761,140153
+2018,basicos,cerveza,8804761,142318
+2018,basicos,legumbres secas,8804761,144722
+2018,basicos,tortillas y derivados del maiz,8804761,152767
+2018,basicos,cafe,8804761,165939
+2018,basicos,aceites y grasas veg. comestibles,8804761,238291
+2018,basicos,arroz y cereales preparados,8804761,262406
+2018,basicos,pan,8804761,270376
+2018,basicos,galletas pastas y harinas de trigo,8804761,373570
+2018,basicos,arts. de papel p/higiene personal,8804761,438240
+2018,basicos,leche procesada,8804761,446420
+2018,basicos,chocolates y golosinas,8804761,460749
+2018,basicos,frutas y legumbres procesadas,8804761,479205
+2018,basicos,condimentos,8804761,526847
+2018,basicos,carnes frias secas y embutidos,8804761,593642
+2018,basicos,refrescos envasados,8804761,636955
+2018,basicos,derivados de leche,8804761,668873
+2018,basicos,detergentes y productos similares,8804761,669682
+2018,basicos,arts. para el cuidado personal,8804761,1159575
+2018,electrodomesticos,arts. de esparcimiento (juguetes),1735336,31852
+2018,electrodomesticos,utensilios domesticos,1735336,32336
+2018,electrodomesticos,aparatos electronicos,1735336,616216
+2018,electrodomesticos,aparatos electricos,1735336,1054932
+2018,frutas y legumbres,condimentos,938616,332
+2018,frutas y legumbres,productos de temporada (navidenos),938616,48345
+2018,frutas y legumbres,frutas frescas,938616,389541
+2018,frutas y legumbres,hortalizas frescas,938616,500398
+2018,juguetes,arts. de esparcimiento (juguetes),370421,370421
+2018,medicamentos,medicamentos,3657969,3657969
+2018,mercados,accesorios domesticos,457497,47
+2018,mercados,pescados y mariscos,457497,246
+2018,mercados,leche fresca,457497,478
+2018,mercados,arts. de papel p/higiene personal,457497,2296
+2018,mercados,grasas animales comestibles,457497,2378
+2018,mercados,huevo,457497,2522
+2018,mercados,cafe,457497,3411
+2018,mercados,pescados y mariscos en conserva,457497,5677
+2018,mercados,tortillas y derivados del maiz,457497,5698
+2018,mercados,azucar,457497,6338
+2018,mercados,refrescos envasados,457497,6849
+2018,mercados,hortalizas frescas,457497,7053
+2018,mercados,arts. para el cuidado personal,457497,7716
+2018,mercados,arroz y cereales preparados,457497,9959
+2018,mercados,carne de ave,457497,10410
+2018,mercados,leche procesada,457497,10976
+2018,mercados,pan,457497,11331
+2018,mercados,galletas pastas y harinas de trigo,457497,12125
+2018,mercados,productos de temporada (navidenos),457497,14946
+2018,mercados,aceites y grasas veg. comestibles,457497,15185
+2018,mercados,chocolates y golosinas,457497,20824
+2018,mercados,derivados de leche,457497,21587
+2018,mercados,frutas y legumbres procesadas,457497,22194
+2018,mercados,carnes frias secas y embutidos,457497,22545
+2018,mercados,carne y visceras de res,457497,32521
+2018,mercados,legumbres secas,457497,34683
+2018,mercados,carne y visceras de cerdo,457497,35304
+2018,mercados,condimentos,457497,62842
+2018,mercados,detergentes y productos similares,457497,69356
+2018,navideno,productos de temporada (navidenos),58674,20020
+2018,navideno,vinos y licores,58674,38654
+2018,pescados y mariscos,pescados y mariscos en conserva,90040,3632
+2018,pescados y mariscos,pescados y mariscos,90040,86408
+2018,utiles escolares,material escolar,669587,669587
+2019,basicos,pescados y mariscos,7399439,1239
+2019,basicos,grasas animales comestibles,7399439,8662
+2019,basicos,utensilios domesticos,7399439,8698
+2019,basicos,alimentos cocinados f/casa,7399439,9646
+2019,basicos,te,7399439,11520
+2019,basicos,cigarrillos,7399439,12749
+2019,basicos,leche fresca,7399439,24201
+2019,basicos,medicamentos,7399439,33838
+2019,basicos,hortalizas frescas,7399439,41200
+2019,basicos,azucar,7399439,43181
+2019,basicos,accesorios domesticos,7399439,44855
+2019,basicos,carne de ave,7399439,54967
+2019,basicos,productos de temporada (navidenos),7399439,66837
+2019,basicos,huevo,7399439,86791
+2019,basicos,carne y visceras de cerdo,7399439,87006
+2019,basicos,vinos y licores,7399439,95010
+2019,basicos,cerveza,7399439,107464
+2019,basicos,carne y visceras de res,7399439,111341
+2019,basicos,pescados y mariscos en conserva,7399439,119345
+2019,basicos,tortillas y derivados del maiz,7399439,120234
+2019,basicos,cafe,7399439,122771
+2019,basicos,legumbres secas,7399439,129637
+2019,basicos,aceites y grasas veg. comestibles,7399439,167320
+2019,basicos,arroz y cereales preparados,7399439,211877
+2019,basicos,pan,7399439,260091
+2019,basicos,galletas pastas y harinas de trigo,7399439,310166
+2019,basicos,leche procesada,7399439,353995
+2019,basicos,frutas y legumbres procesadas,7399439,359539
+2019,basicos,arts. de papel p/higiene personal,7399439,380509
+2019,basicos,condimentos,7399439,414206
+2019,basicos,chocolates y golosinas,7399439,441530
+2019,basicos,carnes frias secas y embutidos,7399439,469377
+2019,basicos,detergentes y productos similares,7399439,506482
+2019,basicos,derivados de leche,7399439,543314
+2019,basicos,refrescos envasados,7399439,600392
+2019,basicos,arts. para el cuidado personal,7399439,1039449
+2019,electrodomesticos,utensilios domesticos,1352068,23785
+2019,electrodomesticos,arts. de esparcimiento (juguetes),1352068,29556
+2019,electrodomesticos,aparatos electronicos,1352068,462756
+2019,electrodomesticos,aparatos electricos,1352068,835971
+2019,frutas y legumbres,condimentos,702747,422
+2019,frutas y legumbres,productos de temporada (navidenos),702747,35733
+2019,frutas y legumbres,frutas frescas,702747,290378
+2019,frutas y legumbres,hortalizas frescas,702747,376214
+2019,juguetes,arts. de esparcimiento (juguetes),267730,267730
+2019,medicamentos,medicamentos,2887105,2887105
+2019,mercados,accesorios domesticos,381183,11
+2019,mercados,leche fresca,381183,339
+2019,mercados,grasas animales comestibles,381183,1957
+2019,mercados,huevo,381183,2401
+2019,mercados,arts. de papel p/higiene personal,381183,3227
+2019,mercados,azucar,381183,3271
+2019,mercados,tortillas y derivados del maiz,381183,4679
+2019,mercados,hortalizas frescas,381183,5458
+2019,mercados,cafe,381183,5580
+2019,mercados,refrescos envasados,381183,6010
+2019,mercados,pescados y mariscos en conserva,381183,6520
+2019,mercados,carne de ave,381183,7052
+2019,mercados,arroz y cereales preparados,381183,8395
+2019,mercados,pan,381183,8569
+2019,mercados,leche procesada,381183,9006
+2019,mercados,arts. para el cuidado personal,381183,9767
+2019,mercados,galletas pastas y harinas de trigo,381183,9917
+2019,mercados,productos de temporada (navidenos),381183,11766
+2019,mercados,aceites y grasas veg. comestibles,381183,11983
+2019,mercados,chocolates y golosinas,381183,16878
+2019,mercados,frutas y legumbres procesadas,381183,20092
+2019,mercados,carnes frias secas y embutidos,381183,20454
+2019,mercados,derivados de leche,381183,20730
+2019,mercados,carne y visceras de res,381183,24036
+2019,mercados,carne y visceras de cerdo,381183,25655
+2019,mercados,legumbres secas,381183,32611
+2019,mercados,condimentos,381183,48738
+2019,mercados,detergentes y productos similares,381183,56081
+2019,navideno,condimentos,42538,4
+2019,navideno,productos de temporada (navidenos),42538,15685
+2019,navideno,vinos y licores,42538,26849
+2019,pescados y mariscos,pescados y mariscos en conserva,69658,2557
+2019,pescados y mariscos,pescados y mariscos,69658,67101
+2019,utiles escolares,material escolar,579623,579623
+2020,basicos,pescados y mariscos,6170517,894
+2020,basicos,grasas animales comestibles,6170517,7132
+2020,basicos,utensilios domesticos,6170517,7917
+2020,basicos,alimentos cocinados f/casa,6170517,7963
+2020,basicos,te,6170517,9734
+2020,basicos,cigarrillos,6170517,13747
+2020,basicos,leche fresca,6170517,20402
+2020,basicos,medicamentos,6170517,27000
+2020,basicos,accesorios domesticos,6170517,31787
+2020,basicos,hortalizas frescas,6170517,34718
+2020,basicos,azucar,6170517,52701
+2020,basicos,carne de ave,6170517,56054
+2020,basicos,productos de temporada (navidenos),6170517,58007
+2020,basicos,cerveza,6170517,65673
+2020,basicos,vinos y licores,6170517,65738
+2020,basicos,carne y visceras de cerdo,6170517,73672
+2020,basicos,huevo,6170517,73919
+2020,basicos,carne y visceras de res,6170517,92212
+2020,basicos,legumbres secas,6170517,93379
+2020,basicos,pescados y mariscos en conserva,6170517,96324
+2020,basicos,tortillas y derivados del maiz,6170517,106481
+2020,basicos,cafe,6170517,108143
+2020,basicos,aceites y grasas veg. comestibles,6170517,130142
+2020,basicos,arroz y cereales preparados,6170517,146531
+2020,basicos,pan,6170517,191176
+2020,basicos,galletas pastas y harinas de trigo,6170517,243289
+2020,basicos,frutas y legumbres procesadas,6170517,286310
+2020,basicos,leche procesada,6170517,297971
+2020,basicos,arts. de papel p/higiene personal,6170517,342168
+2020,basicos,condimentos,6170517,351072
+2020,basicos,chocolates y golosinas,6170517,367420
+2020,basicos,carnes frias secas y embutidos,6170517,423427
+2020,basicos,detergentes y productos similares,6170517,436210
+2020,basicos,derivados de leche,6170517,464676
+2020,basicos,refrescos envasados,6170517,509914
+2020,basicos,arts. para el cuidado personal,6170517,876614
+2020,electrodomesticos,utensilios domesticos,602860,10021
+2020,electrodomesticos,arts. de esparcimiento (juguetes),602860,10384
+2020,electrodomesticos,aparatos electronicos,602860,214928
+2020,electrodomesticos,aparatos electricos,602860,367527
+2020,frutas y legumbres,condimentos,643820,457
+2020,frutas y legumbres,productos de temporada (navidenos),643820,31411
+2020,frutas y legumbres,frutas frescas,643820,263583
+2020,frutas y legumbres,hortalizas frescas,643820,348369
+2020,juguetes,arts. de esparcimiento (juguetes),181907,181907
+2020,medicamentos,arts. para el cuidado personal,2571915,71750
+2020,medicamentos,medicamentos,2571915,2500165
+2020,mercados,leche fresca,312800,301
+2020,mercados,grasas animales comestibles,312800,1949
+2020,mercados,huevo,312800,2557
+2020,mercados,azucar,312800,2566
+2020,mercados,arts. de papel p/higiene personal,312800,2614
+2020,mercados,hortalizas frescas,312800,4085
+2020,mercados,tortillas y derivados del maiz,312800,4178
+2020,mercados,refrescos envasados,312800,4714
+2020,mercados,cafe,312800,4720
+2020,mercados,pescados y mariscos en conserva,312800,5429
+2020,mercados,arroz y cereales preparados,312800,6270
+2020,mercados,carne de ave,312800,6296
+2020,mercados,arts. para el cuidado personal,312800,6355
+2020,mercados,pan,312800,6583
+2020,mercados,galletas pastas y harinas de trigo,312800,6918
+2020,mercados,leche procesada,312800,6974
+2020,mercados,aceites y grasas veg. comestibles,312800,10362
+2020,mercados,productos de temporada (navidenos),312800,10776
+2020,mercados,chocolates y golosinas,312800,13962
+2020,mercados,frutas y legumbres procesadas,312800,16982
+2020,mercados,carnes frias secas y embutidos,312800,18079
+2020,mercados,derivados de leche,312800,19552
+2020,mercados,carne y visceras de res,312800,21062
+2020,mercados,carne y visceras de cerdo,312800,21071
+2020,mercados,legumbres secas,312800,30844
+2020,mercados,condimentos,312800,38684
+2020,mercados,detergentes y productos similares,312800,38917
+2020,navideno,productos de temporada (navidenos),26111,10384
+2020,navideno,vinos y licores,26111,15727
+2020,pescados y mariscos,pescados y mariscos en conserva,50978,1732
+2020,pescados y mariscos,pescados y mariscos,50978,49246
+2020,utiles escolares,aparatos electronicos,219573,25
+2020,utiles escolares,material escolar,219573,219548
+2021,basicos,pescados y mariscos,6919490,905
+2021,basicos,grasas animales comestibles,6919490,7382
+2021,basicos,alimentos cocinados f/casa,6919490,8539
+2021,basicos,utensilios domesticos,6919490,9242
+2021,basicos,te,6919490,10240
+2021,basicos,cigarrillos,6919490,15791
+2021,basicos,leche fresca,6919490,20990
+2021,basicos,medicamentos,6919490,29370
+2021,basicos,accesorios domesticos,6919490,37753
+2021,basicos,hortalizas frescas,6919490,40495
+2021,basicos,azucar,6919490,53623
+2021,basicos,carne de ave,6919490,62284
+2021,basicos,productos de temporada (navidenos),6919490,64620
+2021,basicos,vinos y licores,6919490,78503
+2021,basicos,carne y visceras de cerdo,6919490,84491
+2021,basicos,cerveza,6919490,95483
+2021,basicos,huevo,6919490,95762
+2021,basicos,carne y visceras de res,6919490,101244
+2021,basicos,pescados y mariscos en conserva,6919490,107218
+2021,basicos,tortillas y derivados del maiz,6919490,116764
+2021,basicos,cafe,6919490,122501
+2021,basicos,legumbres secas,6919490,124490
+2021,basicos,aceites y grasas veg. comestibles,6919490,142039
+2021,basicos,arroz y cereales preparados,6919490,200355
+2021,basicos,pan,6919490,227967
+2021,basicos,galletas pastas y harinas de trigo,6919490,302160
+2021,basicos,leche procesada,6919490,308145
+2021,basicos,frutas y legumbres procesadas,6919490,344309
+2021,basicos,chocolates y golosinas,6919490,371149
+2021,basicos,arts. de papel p/higiene personal,6919490,382894
+2021,basicos,condimentos,6919490,383818
+2021,basicos,carnes frias secas y embutidos,6919490,461521
+2021,basicos,derivados de leche,6919490,484015
+2021,basicos,detergentes y productos similares,6919490,505673
+2021,basicos,refrescos envasados,6919490,554604
+2021,basicos,arts. para el cuidado personal,6919490,963151
+2021,electrodomesticos,utensilios domesticos,1004833,19000
+2021,electrodomesticos,arts. de esparcimiento (juguetes),1004833,19601
+2021,electrodomesticos,aparatos electronicos,1004833,336160
+2021,electrodomesticos,aparatos electricos,1004833,630072
+2021,frutas y legumbres,condimentos,756850,602
+2021,frutas y legumbres,productos de temporada (navidenos),756850,36208
+2021,frutas y legumbres,frutas frescas,756850,308172
+2021,frutas y legumbres,hortalizas frescas,756850,411868
+2021,juguetes,arts. de esparcimiento (juguetes),207318,207318
+2021,medicamentos,arts. para el cuidado personal,2937404,162659
+2021,medicamentos,medicamentos,2937404,2774745
+2021,mercados,leche fresca,318280,524
+2021,mercados,arts. de papel p/higiene personal,318280,2375
+2021,mercados,huevo,318280,2488
+2021,mercados,grasas animales comestibles,318280,2529
+2021,mercados,azucar,318280,2875
+2021,mercados,hortalizas frescas,318280,3516
+2021,mercados,galletas pastas y harinas de trigo,318280,4815
+2021,mercados,refrescos envasados,318280,4952
+2021,mercados,tortillas y derivados del maiz,318280,4978
+2021,mercados,cafe,318280,5024
+2021,mercados,pan,318280,6098
+2021,mercados,arts. para el cuidado personal,318280,6470
+2021,mercados,pescados y mariscos en conserva,318280,6493
+2021,mercados,leche procesada,318280,6584
+2021,mercados,arroz y cereales preparados,318280,6718
+2021,mercados,carne de ave,318280,6999
+2021,mercados,aceites y grasas veg. comestibles,318280,10605
+2021,mercados,chocolates y golosinas,318280,12060
+2021,mercados,productos de temporada (navidenos),318280,12947
+2021,mercados,carnes frias secas y embutidos,318280,16114
+2021,mercados,frutas y legumbres procesadas,318280,17177
+2021,mercados,derivados de leche,318280,19704
+2021,mercados,carne y visceras de cerdo,318280,22336
+2021,mercados,carne y visceras de res,318280,24585
+2021,mercados,condimentos,318280,35713
+2021,mercados,legumbres secas,318280,36070
+2021,mercados,detergentes y productos similares,318280,37531
+2021,navideno,condimentos,43490,4
+2021,navideno,productos de temporada (navidenos),43490,17094
+2021,navideno,vinos y licores,43490,26392
+2021,pescados y mariscos,pescados y mariscos en conserva,74902,2050
+2021,pescados y mariscos,pescados y mariscos,74902,72852
+2021,utiles escolares,aparatos electronicos,551427,554
+2021,utiles escolares,material escolar,551427,550873
+2022,basicos,pescados y mariscos,8168617,637
+2022,basicos,te,8168617,6070
+2022,basicos,grasas animales comestibles,8168617,7818
+2022,basicos,alimentos cocinados f/casa,8168617,9697
+2022,basicos,utensilios domesticos,8168617,9993
+2022,basicos,productos de temporada (navide~nos),8168617,12730
+2022,basicos,cigarrillos,8168617,16693
+2022,basicos,leche fresca,8168617,23793
+2022,basicos,frutas frescas,8168617,26445
+2022,basicos,medicamentos,8168617,30511
+2022,basicos,accesorios domesticos,8168617,37703
+2022,basicos,productos de temporada (navidenos),8168617,56431
+2022,basicos,hortalizas frescas,8168617,82133
+2022,basicos,azucar,8168617,82794
+2022,basicos,vinos y licores,8168617,84812
+2022,basicos,carne de ave,8168617,87254
+2022,basicos,cerveza,8168617,99649
+2022,basicos,carne y visceras de cerdo,8168617,114331
+2022,basicos,huevo,8168617,120654
+2022,basicos,cafe,8168617,122846
+2022,basicos,carne y visceras de res,8168617,136351
+2022,basicos,tortillas y derivados del maiz,8168617,147665
+2022,basicos,pescados y mariscos en conserva,8168617,162000
+2022,basicos,legumbres secas,8168617,163964
+2022,basicos,aceites y grasas veg. comestibles,8168617,188072
+2022,basicos,arroz y cereales preparados,8168617,228915
+2022,basicos,pan,8168617,268670
+2022,basicos,leche procesada,8168617,342474
+2022,basicos,frutas y legumbres procesadas,8168617,369410
+2022,basicos,galletas pastas y harinas de trigo,8168617,390436
+2022,basicos,condimentos,8168617,401248
+2022,basicos,chocolates y golosinas,8168617,438478
+2022,basicos,carnes frias secas y embutidos,8168617,482247
+2022,basicos,arts. de papel p/higiene personal,8168617,554218
+2022,basicos,detergentes y productos similares,8168617,557885
+2022,basicos,derivados de leche,8168617,569822
+2022,basicos,refrescos envasados,8168617,617026
+2022,basicos,arts. para el cuidado personal,8168617,1116742
+2022,electrodomesticos,utensilios domesticos,1024661,19332
+2022,electrodomesticos,arts. de esparcimiento (juguetes),1024661,28181
+2022,electrodomesticos,aparatos electronicos,1024661,314507
+2022,electrodomesticos,aparatos electricos,1024661,662641
+2022,frutas y legumbres,condimentos,922762,502
+2022,frutas y legumbres,productos de temporada (navide~nos),922762,8024
+2022,frutas y legumbres,productos de temporada (navidenos),922762,32919
+2022,frutas y legumbres,frutas frescas,922762,378759
+2022,frutas y legumbres,hortalizas frescas,922762,502558
+2022,juguetes,arts. de esparcimiento (juguetes),180328,180328
+2022,medicamentos,arts. para el cuidado personal,3164281,190036
+2022,medicamentos,medicamentos,3164281,2974245
+2022,mercados,leche fresca,366327,602
+2022,mercados,huevo,366327,2668
+2022,mercados,grasas animales comestibles,366327,2765
+2022,mercados,arts. de papel p/higiene personal,366327,2913
+2022,mercados,productos de temporada (navide~nos),366327,3002
+2022,mercados,azucar,366327,3895
+2022,mercados,hortalizas frescas,366327,4000
+2022,mercados,refrescos envasados,366327,5329
+2022,mercados,leche procesada,366327,5361
+2022,mercados,galletas pastas y harinas de trigo,366327,5529
+2022,mercados,cafe,366327,5704
+2022,mercados,tortillas y derivados del maiz,366327,6817
+2022,mercados,pescados y mariscos en conserva,366327,6908
+2022,mercados,arts. para el cuidado personal,366327,7522
+2022,mercados,arroz y cereales preparados,366327,7898
+2022,mercados,carne de ave,366327,8335
+2022,mercados,pan,366327,8530
+2022,mercados,aceites y grasas veg. comestibles,366327,11661
+2022,mercados,productos de temporada (navidenos),366327,12388
+2022,mercados,chocolates y golosinas,366327,12857
+2022,mercados,carnes frias secas y embutidos,366327,15872
+2022,mercados,frutas y legumbres procesadas,366327,19008
+2022,mercados,derivados de leche,366327,22116
+2022,mercados,carne y visceras de cerdo,366327,29203
+2022,mercados,carne y visceras de res,366327,31712
+2022,mercados,condimentos,366327,37169
+2022,mercados,detergentes y productos similares,366327,41874
+2022,mercados,legumbres secas,366327,44689
+2022,navideno,productos de temporada (navidenos),33332,5882
+2022,navideno,productos de temporada (navide~nos),33332,6975
+2022,navideno,vinos y licores,33332,20475
+2022,pescados y mariscos,pescados y mariscos en conserva,113921,2165
+2022,pescados y mariscos,pescados y mariscos,113921,111756
+2022,utiles escolares,aparatos electronicos,423383,878
+2022,utiles escolares,material escolar,423383,422505
+2023,basicos,grasas animales comestibles,8413763,5487
+2023,basicos,te,8413763,5674
+2023,basicos,pescados y mariscos,8413763,6986
+2023,basicos,alimentos cocinados f/casa,8413763,9357
+2023,basicos,utensilios domesticos,8413763,10301
+2023,basicos,cigarrillos,8413763,16429
+2023,basicos,leche fresca,8413763,21851
+2023,basicos,medicamentos,8413763,27314
+2023,basicos,accesorios domesticos,8413763,31439
+2023,basicos,frutas frescas,8413763,53272
+2023,basicos,productos de temporada (navidenos),8413763,59449
+2023,basicos,vinos y licores,8413763,88920
+2023,basicos,azucar,8413763,97180
+2023,basicos,carne de ave,8413763,104818
+2023,basicos,cerveza,8413763,110810
+2023,basicos,cafe,8413763,118374
+2023,basicos,huevo,8413763,122548
+2023,basicos,carne y visceras de cerdo,8413763,125573
+2023,basicos,hortalizas frescas,8413763,139557
+2023,basicos,carne y visceras de res,8413763,141893
+2023,basicos,tortillas y derivados del maiz,8413763,152347
+2023,basicos,legumbres secas,8413763,178063
+2023,basicos,aceites y grasas veg. comestibles,8413763,209954
+2023,basicos,pescados y mariscos en conserva,8413763,210492
+2023,basicos,arroz y cereales preparados,8413763,233757
+2023,basicos,pan,8413763,269593
+2023,basicos,leche procesada,8413763,351747
+2023,basicos,frutas y legumbres procesadas,8413763,357212
+2023,basicos,condimentos,8413763,392902
+2023,basicos,chocolates y golosinas,8413763,433999
+2023,basicos,galletas pastas y harinas de trigo,8413763,449307
+2023,basicos,carnes frias secas y embutidos,8413763,486647
+2023,basicos,detergentes y productos similares,8413763,502848
+2023,basicos,derivados de leche,8413763,574782
+2023,basicos,arts. de papel p/higiene personal,8413763,619266
+2023,basicos,refrescos envasados,8413763,628634
+2023,basicos,arts. para el cuidado personal,8413763,1064981
+2023,electrodomesticos,utensilios domesticos,1183304,16722
+2023,electrodomesticos,arts. de esparcimiento (juguetes),1183304,42710
+2023,electrodomesticos,aparatos electronicos,1183304,362386
+2023,electrodomesticos,aparatos electricos,1183304,761486
+2023,frutas y legumbres,condimentos,861829,484
+2023,frutas y legumbres,productos de temporada (navidenos),861829,37588
+2023,frutas y legumbres,frutas frescas,861829,349992
+2023,frutas y legumbres,hortalizas frescas,861829,473765
+2023,juguetes,arts. de esparcimiento (juguetes),205361,205361
+2023,medicamentos,arts. para el cuidado personal,3192617,196836
+2023,medicamentos,medicamentos,3192617,2995781
+2023,mercados,leche fresca,324401,441
+2023,mercados,huevo,324401,2273
+2023,mercados,grasas animales comestibles,324401,2545
+2023,mercados,arts. de papel p/higiene personal,324401,2841
+2023,mercados,azucar,324401,3403
+2023,mercados,hortalizas frescas,324401,3737
+2023,mercados,arts. para el cuidado personal,324401,4405
+2023,mercados,cafe,324401,4640
+2023,mercados,refrescos envasados,324401,4814
+2023,mercados,leche procesada,324401,4925
+2023,mercados,galletas pastas y harinas de trigo,324401,4974
+2023,mercados,pescados y mariscos en conserva,324401,5655
+2023,mercados,tortillas y derivados del maiz,324401,5656
+2023,mercados,arroz y cereales preparados,324401,6745
+2023,mercados,carne de ave,324401,7110
+2023,mercados,pan,324401,7703
+2023,mercados,chocolates y golosinas,324401,10314
+2023,mercados,aceites y grasas veg. comestibles,324401,10372
+2023,mercados,productos de temporada (navidenos),324401,13560
+2023,mercados,carnes frias secas y embutidos,324401,14027
+2023,mercados,frutas y legumbres procesadas,324401,17995
+2023,mercados,derivados de leche,324401,20127
+2023,mercados,carne y visceras de cerdo,324401,26599
+2023,mercados,carne y visceras de res,324401,27993
+2023,mercados,condimentos,324401,33438
+2023,mercados,detergentes y productos similares,324401,37366
+2023,mercados,legumbres secas,324401,40743
+2023,navideno,condimentos,32163,1
+2023,navideno,productos de temporada (navidenos),32163,12586
+2023,navideno,vinos y licores,32163,19576
+2023,pescados y mariscos,pescados y mariscos en conserva,123335,8814
+2023,pescados y mariscos,pescados y mariscos,123335,114521
+2023,utiles escolares,aparatos electronicos,446039,1306
+2023,utiles escolares,material escolar,446039,444733
+2024,basicos,grasas animales comestibles,2142375,777
+2024,basicos,galletas,2142375,814
+2024,basicos,te,2142375,1448
+2024,basicos,pescados y mariscos,2142375,2106
+2024,basicos,alimentos cocinados f/casa,2142375,2250
+2024,basicos,utensilios domesticos,2142375,2505
+2024,basicos,cigarrillos,2142375,4045
+2024,basicos,leche fresca,2142375,6816
+2024,basicos,medicamentos,2142375,7282
+2024,basicos,accesorios domesticos,2142375,7290
+2024,basicos,frutas frescas,2142375,13426
+2024,basicos,productos de temporada (navidenos),2142375,16453
+2024,basicos,azucar,2142375,21429
+2024,basicos,vinos y licores,2142375,23468
+2024,basicos,carne de ave,2142375,27866
+2024,basicos,huevo,2142375,28143
+2024,basicos,cafe,2142375,30308
+2024,basicos,cerveza,2142375,30341
+2024,basicos,carne y visceras de cerdo,2142375,31969
+2024,basicos,carne y visceras de res,2142375,35403
+2024,basicos,tortillas y derivados del maiz,2142375,38262
+2024,basicos,hortalizas frescas,2142375,41901
+2024,basicos,legumbres secas,2142375,51729
+2024,basicos,pescados y mariscos en conserva,2142375,52663
+2024,basicos,aceites y grasas veg. comestibles,2142375,53939
+2024,basicos,pan,2142375,66374
+2024,basicos,arroz y cereales preparados,2142375,68686
+2024,basicos,leche procesada,2142375,86221
+2024,basicos,frutas y legumbres procesadas,2142375,87279
+2024,basicos,condimentos,2142375,100374
+2024,basicos,galletas pastas y harinas de trigo,2142375,106289
+2024,basicos,chocolates y golosinas,2142375,106751
+2024,basicos,carnes frias secas y embutidos,2142375,121749
+2024,basicos,detergentes y productos similares,2142375,125372
+2024,basicos,derivados de leche,2142375,148024
+2024,basicos,arts. de papel p/higiene personal,2142375,159851
+2024,basicos,refrescos envasados,2142375,162426
+2024,basicos,arts. para el cuidado personal,2142375,270346
+2024,electrodomesticos,utensilios domesticos,267835,3353
+2024,electrodomesticos,arts. de esparcimiento (juguetes),267835,8978
+2024,electrodomesticos,aparatos electronicos,267835,74000
+2024,electrodomesticos,aparatos electricos,267835,181504
+2024,frutas y legumbres,condimentos,211839,221
+2024,frutas y legumbres,productos de temporada (navidenos),211839,9152
+2024,frutas y legumbres,frutas frescas,211839,86993
+2024,frutas y legumbres,hortalizas frescas,211839,115473
+2024,juguetes,arts. de esparcimiento (juguetes),19114,19114
+2024,medicamentos,arts. para el cuidado personal,798628,49084
+2024,medicamentos,medicamentos,798628,749544
+2024,mercados,leche fresca,76886,121
+2024,mercados,huevo,76886,541
+2024,mercados,grasas animales comestibles,76886,592
+2024,mercados,arts. de papel p/higiene personal,76886,684
+2024,mercados,arts. para el cuidado personal,76886,750
+2024,mercados,azucar,76886,828
+2024,mercados,hortalizas frescas,76886,868
+2024,mercados,cafe,76886,994
+2024,mercados,refrescos envasados,76886,1013
+2024,mercados,galletas pastas y harinas de trigo,76886,1152
+2024,mercados,leche procesada,76886,1246
+2024,mercados,tortillas y derivados del maiz,76886,1319
+2024,mercados,pescados y mariscos en conserva,76886,1329
+2024,mercados,arroz y cereales preparados,76886,1655
+2024,mercados,carne de ave,76886,1795
+2024,mercados,pan,76886,1826
+2024,mercados,chocolates y golosinas,76886,2357
+2024,mercados,aceites y grasas veg. comestibles,76886,2523
+2024,mercados,productos de temporada (navidenos),76886,3302
+2024,mercados,carnes frias secas y embutidos,76886,3412
+2024,mercados,frutas y legumbres procesadas,76886,4394
+2024,mercados,derivados de leche,76886,4601
+2024,mercados,carne y visceras de cerdo,76886,6366
+2024,mercados,carne y visceras de res,76886,6622
+2024,mercados,condimentos,76886,7569
+2024,mercados,detergentes y productos similares,76886,9415
+2024,mercados,legumbres secas,76886,9612
+2024,navideno,vinos y licores,202,36
+2024,navideno,productos de temporada (navidenos),202,166
+2024,pescados y mariscos,pescados y mariscos en conserva,45966,5489
+2024,pescados y mariscos,pescados y mariscos,45966,40477
+2024,utiles escolares,aparatos electronicos,62102,38
+2024,utiles escolares,material escolar,62102,62064

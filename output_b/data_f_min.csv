@@ -1,0 +1,47 @@
+anio,producto,precio_minimo,ranking
+2023,ampliron duo,5.0,1
+2020,guantes de latex,5.210000038146973,1
+2021,gel antibacterial,5.400000095367432,1
+2020,gel antibacterial,6.0,2
+2021,metamizol sodico,6.630000114440918,2
+2020,metamizol sodico,6.630000114440918,3
+2019,paracetamol,7.0,1
+2018,paracetamol,7.0,1
+2019,acido folico,7.0,1
+2018,acido folico,7.0,1
+2021,paracetamol,7.0,3
+2021,acido folico,7.0,3
+2020,paracetamol,7.0,4
+2020,acido folico,7.0,4
+2022,acido folico,7.050000190734863,1
+2021,cubrebocas,7.5,5
+2023,desloratadina,7.900000095367432,2
+2022,clorfenamina compuesta,7.900000095367432,2
+2018,metamizol sodico,7.900000095367432,3
+2019,clorfenamina compuesta,7.900000095367432,3
+2023,paracetamol,8.0,3
+2022,metamizol sodico,8.0,3
+2022,paracetamol,8.0,3
+2018,glibenclamida,8.0,4
+2019,metamizol sodico,8.0,4
+2018,clorfenamina compuesta,8.0,4
+2019,glibenclamida,9.43000030517578,5
+2024,clorfenamina compuesta,10.0,1
+2024,paracetamol,10.0,1
+2023,cubrebocas,10.0,4
+2023,clorfenamina compuesta,10.0,4
+2023,metamizol sodico,10.0,4
+2023,furosemida,10.0,4
+2022,agrifen,10.0,5
+2022,furosemida,10.0,5
+2022,cubrebocas,10.0,5
+2022,glibenclamida,10.0,5
+2024,metamizol sodico,11.0,3
+2024,amikacina,11.0,3
+2024,alcohol,12.0,5
+2024,amlodipino,12.0,5
+2024,cubrebocas,12.0,5
+2024,glibenclamida,12.0,5
+2024,gel antibacterial,12.0,5
+2024,furosemida,12.0,5
+2024,acido folico,12.0,5
